@@ -1,6 +1,6 @@
 # SimonGame
 
-#Overview
+Overview
 This repository contains a digital implementation of the classic memory game, Simon. Simon is a simple yet challenging game where players must remember and repeat sequences of colors and sounds.
 
 Features
@@ -10,9 +10,9 @@ User-friendly interface with clear instructions
 Option to adjust game speed or difficulty
 Score tracking to keep a record of players' performance
 
-Technologies Used
-HTML5
-CSS3
+Technologies Used are :-
+HTML5,
+CSS3, and 
 JavaScript
 
 Usage
